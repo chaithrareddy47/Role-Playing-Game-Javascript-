@@ -28,3 +28,8 @@ One method for finding specific elements in your HTML is using the querySelector
 const info = document.querySelector("#info");
 info.innerText = "Hello World";
 
+- You previously used an array to store strings. But arrays can store any data type. This time, your array will be storing objects. Objects are similar to arrays, but with a few differences. One difference is that objects use properties, or keys, to access and modify data.
+Objects are indicated by curly braces. An empty object would look like {}.
+
+- You previously used an array to store strings. But arrays can store any data type. This time, your array will be storing objects. Objects are similar to arrays, but with a few differences. One difference is that objects use properties, or keys, to access and modify data.
+Objects are indicated by curly braces. An empty object would look like {}.
